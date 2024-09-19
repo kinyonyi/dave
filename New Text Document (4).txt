@@ -1,0 +1,51 @@
+client server 
+
+what does a signal lose during transmission
+power 
+energy 
+difference 
+noise 
+signal
+pulse 
+carrier - frequency, super imposed on a given frequency to enable 
+sockets
+communication media - physical and wireless (guided)
+
+deep learning based routing approach for wireless mesh backbone networks  
+ns2, ns3 simulators
+kuja simulator 
+
+alex mwotil 
+
+osi model 
+tcp
+udp
+
+
+*Meeting Overview*
+The team is very incompetent, not sure of the framework being used for the development
+None of the system functional requirements is operational 
+The application is basically a well spiced webapp with static content (0% operational per our gauge)
+*Recommendation*
+request for a full refund of your money as there has been no value accorded to it. 
+
+
+*Meeting Summary:*
+
+*Team Competency:* The development team has demonstrated a significant lack of proficiency in understanding and utilizing the selected framework for the project (Not even sure of the framework being used for development).
+
+*Functional Requirements:* None of the specified system functional requirements have been successfully implemented or operationalized to date.
+
+*Application Status:* The current state of the application is essentially a static web application with no dynamic or functional components operational, reflecting 0% progress according to our performance metrics.
+
+*Recommendation:*
+
+We strongly recommend requesting a full refund due to the complete lack of delivered value. The current work does not meet any of the agreed-upon specifications or expectations.
+
+
+https://www.youtube.com/watch?v=9lCQhwo8WT4&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=29
+
+
+
+
+
